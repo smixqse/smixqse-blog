@@ -1,0 +1,81 @@
+{
+    "description": "Personal blogging theme for Stackbit",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "smixqse",
+        "tagline": "tentando programar. ",
+        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--TdjUSf1P--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/534756/accba14d-8216-4ea8-8142-34542ca4dd7c.png",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/smixqse",
+                "style": "icon",
+                "icon_class": "fa-twitter",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/smixqse",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/smixqse",
+                "style": "icon",
+                "icon_class": "fa-dev",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "label": "Made with Stackbit.",
+                "url": "https://www.stackbit.com",
+                "style": "link",
+                "new_window": true
+            },
+            {
+                "label": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true,
+                "style": "link"
+            }
+        ]
+    },
+    "title": "Stackbit Fresh Theme"
+}
